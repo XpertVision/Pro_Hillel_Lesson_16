@@ -12,5 +12,5 @@ int main()
 
 void Func()
 {
-	std::cout << "Func\n";
+	std::cout << "Func2\n";
 }
